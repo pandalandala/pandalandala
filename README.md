@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+&hide=language1,language2
 &exclude_repo=pandalandala.github.io
 
 -->
@@ -26,4 +27,8 @@ Here are some ideas to get you started:
 <br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<br /><br />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&v=2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
 </a>

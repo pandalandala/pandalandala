@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Mail](https://img.shields.io/badge/Email-zxrshawn@icloud.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@icloud.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
 </a>
 <br /><br />
 <a href="https://github.com/anuraghazra/github-readme-stats">

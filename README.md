@@ -24,11 +24,9 @@ Here are some ideas to get you started:
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
 </a>
-<br /><br />
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<br /><br />
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&v=2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
 </a>

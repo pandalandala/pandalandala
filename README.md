@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+&exclude_repo=pandalandala.github.io
+
 -->
 
 [![Mail](https://img.shields.io/badge/Email-zxrshawn@icloud.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@icloud.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&show_icons=true&theme=tokyonight" alt="pandalandala's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&v=2&theme=tokyonight" alt="pandalandala's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&layout=compact&langs_count=8&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>

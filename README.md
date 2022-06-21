@@ -30,6 +30,3 @@ Here are some ideas to get you started:
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&v=2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vonbrank&layout=compact&v=2&theme=tokyonight" alt="Von Brank's github stats" /></a>

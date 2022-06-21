@@ -21,12 +21,15 @@ Here are some ideas to get you started:
 
 [![Mail](https://img.shields.io/badge/Email-zxrshawn@icloud.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@icloud.com)
 
-<a>
+<a href="https://github.com/pandalandala">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&cache_seconds=1800&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="pandalandala's github stats" />
-</a>
-<a>
+</a><br>
+<a href="https://github.com/pandalandala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&cache_seconds=1800&card_width=445&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
-<a>
+</a><br>
+<a href="https://github.com/pandalandala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&v=2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
+</a><br>
+<a href="https://github.com/pandalandala">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pandalandala&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
 </a>

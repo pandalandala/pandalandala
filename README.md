@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&cache_seconds=1800&card_width=445&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a><br>
 <a href="https://github.com/pandalandala">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=default&range=last_7_days&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&range=last_7_days&v=2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
 </a><br>
 <!--&v=2-->
 <a href="https://github.com/pandalandala">

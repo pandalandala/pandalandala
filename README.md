@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&cache_seconds=1800&card_width=445&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a><br>
 
-<a href="https://github.com/pandalandala">
+<!-- <a href="https://github.com/pandalandala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pandalandala&layout=compact&range=last_7_days&v=2&hide=Other&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&cache_seconds=1800" alt="pandalandala's github stats" />
-</a><br>
+</a><br> -->
 
 <a href="https://github.com/pandalandala">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=pandalandala&background=bc596c&dates=FFFFFF&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="pandalandala's github stats" />

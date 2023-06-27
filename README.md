@@ -27,6 +27,7 @@
 <img alt="mysql" height="50" width="50" src="https://icongr.am/devicon/mysql-original.svg" />
 <img alt="redis" height="50" width="50" src="https://icongr.am/devicon/redis-original.svg" />
 <img alt="qt" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" />
+<img alt="qt" height="50" width="50" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" />
 </p>
 
 <h3 align="center">Still learning:</h3>

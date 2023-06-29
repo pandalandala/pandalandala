@@ -6,6 +6,8 @@
 
 <h2 align="center">Tech Stack</h2>
 
+<h3 align="center">Beginner:</h3>
+
 <p align="center">
 <img alt="c" height="50" width="50" src="https://icongr.am/devicon/c-original.svg" />
 <img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" />

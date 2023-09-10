@@ -43,6 +43,7 @@
 <img alt="ts" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg" />
 <img alt="docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg" />
 <img alt="kubernetes" height="50" width="50" src="https://devicons.railway.app/i/kubernetes.svg" />
+<img alt="ros2" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ROS-Dark.svg" />
 </p><br>
 
 <h2 align="center">Github Stats</h2>

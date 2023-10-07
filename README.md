@@ -10,13 +10,13 @@
 
 <p align="center">
 <img alt="c" height="50" width="50" src="https://icongr.am/devicon/c-original.svg" />
-<img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" />
 <img alt="java" height="50" width="50" src="https://icongr.am/devicon/java-original.svg" />
 <img alt="python" height="50" width="50" src="https://icongr.am/devicon/python-original.svg" />
-<img alt="html5" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg" />
-<img alt="css3" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg" />
+<!-- <img alt="html5" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg" /> -->
+<!-- <img alt="css3" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg" /> -->
 <img alt="less" height="50" width="50" src="https://icongr.am/devicon/less-plain-wordmark.svg?color=1d365d" />
 <img alt="js" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg" />
+<img alt="ts" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg" />
 </p>
 
 <p align="center">
@@ -35,12 +35,12 @@
 <h3 align="center">Still learning:</h3>
 
 <p align="center">
+<img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" />
 <img alt="pytorch" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" />
 <img alt="webpack" height="50" width="50" src="https://icongr.am/devicon/webpack-original.svg" />
 <img alt="electron" height="50" width="50" src="https://icongr.am/devicon/electron-original.svg" />
 <img alt="nextjs" height="50" width="50" src="https://devicons.railway.app/i/nextjs-dark.svg" />
 <img alt="react" height="50" width="50" src="https://icongr.am/devicon/react-original.svg" />
-<img alt="ts" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg" />
 <img alt="docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg" />
 <img alt="kubernetes" height="50" width="50" src="https://devicons.railway.app/i/kubernetes.svg" />
 <img alt="ros2" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ROS-Dark.svg" />

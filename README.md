@@ -1,6 +1,6 @@
 ### Hi, I'm Xuran Zheng👋
 
-- 📫 Contact me via [![Mail](https://img.shields.io/badge/Email-zxrshawn@icloud.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@icloud.com).
+- 📫 Contact me via [![Mail](https://img.shields.io/badge/Email-zxrshawn@gmail.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@gmail.com).
 - ⚡ I'm interested in Rubik's Cube (visit my [World Cube Association Profile](https://www.worldcubeassociation.org/persons/2014ZHEN02)), languages learning and linguistics.
 <br>
 

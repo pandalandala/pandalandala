@@ -1,7 +1,7 @@
 ### Hi, I'm Xuran Zheng👋
 
-- 📫 Contact me via [![Mail](https://img.shields.io/badge/Email-zxrshawn@gmail.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@gmail.com).
-- ⚡ I'm interested in Rubik's Cube (visit my [World Cube Association Profile](https://www.worldcubeassociation.org/persons/2014ZHEN02)), languages learning and linguistics.
+- 📫 Feel free to contact me for any collaboration!   [![Mail](https://img.shields.io/badge/Email-zxrshawn@gmail.com-blue?style=flat&logo=mail.ru)](mailto:zxrshawn@gmail.com)
+- ⚡ I'm interested in Rubik's Cube ([World Cube Association Profile](https://www.worldcubeassociation.org/persons/2014ZHEN02)), languages learning and linguistics.
 <br>
 
 <h2 align="center">Tech Stack</h2>
@@ -15,6 +15,7 @@
 <!-- <img alt="html5" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg" /> -->
 <!-- <img alt="css3" height="50" width="50" src="https://icongr.am/devicon/css3-original.svg" /> -->
 <img alt="less" height="50" width="50" src="https://icongr.am/devicon/less-plain-wordmark.svg?color=1d365d" />
+<img alt="sass" height="50" width="50" src="https://devicons.railway.app/i/sass.svg" />
 <img alt="js" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg" />
 <img alt="ts" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg" />
 </p>
@@ -49,9 +50,9 @@
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/pandalandala">
+  <!-- <a href="https://github.com/pandalandala">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=pandalandala&cache_seconds=1800&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&card_width=440" alt="pandalandala's github stats" />
-  </a><br>
+  </a><br> -->
 
   <a href="https://github.com/pandalandala">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandalandala&cache_seconds=1800&card_width=440&layout=compact&langs_count=10&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />

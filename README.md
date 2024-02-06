@@ -36,7 +36,7 @@
 <h3 align="center">Still learning:</h3>
 
 <p align="center">
-<img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" />
+<!-- <img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" /> -->
 <img alt="pytorch" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png?20200318225611" />
 <img alt="webpack" height="50" width="50" src="https://icongr.am/devicon/webpack-original.svg" />
 <img alt="electron" height="50" width="50" src="https://icongr.am/devicon/electron-original.svg" />

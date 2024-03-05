@@ -6,10 +6,10 @@
 
 <h2 align="center">Tech Stack</h2>
 
-<h3 align="center">Beginner:</h3>
+<h3 align="center">Main:</h3>
 
 <p align="center">
-<img alt="c" height="50" width="50" src="https://icongr.am/devicon/c-original.svg" />
+<!-- <img alt="c" height="50" width="50" src="https://icongr.am/devicon/c-original.svg" /> -->
 <img alt="java" height="50" width="50" src="https://icongr.am/devicon/java-original.svg" />
 <img alt="python" height="50" width="50" src="https://icongr.am/devicon/python-original.svg" />
 <!-- <img alt="html5" height="50" width="50" src="https://icongr.am/devicon/html5-original.svg" /> -->
@@ -18,22 +18,23 @@
 <img alt="sass" height="50" width="50" src="https://devicons.railway.app/i/sass.svg" />
 <img alt="js" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg" />
 <img alt="ts" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg" />
+<img alt="vue" height="50" width="50" src="https://icongr.am/devicon/vuejs-original.svg" />
+<img alt="vite" height="50" width="50" src="https://devicons.railway.app/i/vitejs.svg" />
 </p>
 
 <p align="center">
-<img alt="vue" height="50" width="50" src="https://icongr.am/devicon/vuejs-original.svg" />
-<img alt="vite" height="50" width="50" src="https://devicons.railway.app/i/vitejs.svg" />
-<img alt="nginx" height="50" width="50" src="https://devicons.railway.app/i/nginx.svg" />
-<img alt="hadoop" height="50" width="50" src="https://hadoop.apache.org/elephant.png" />
 <img alt="springboot" height="50" width="50" src="https://devicons.railway.app/i/spring.svg" />
 <img alt="nodejs" height="50" width="50" src="https://icongr.am/devicon/nodejs-original.svg" />
 <img alt="mysql" height="50" width="50" src="https://icongr.am/devicon/mysql-original.svg" />
 <img alt="redis" height="50" width="50" src="https://icongr.am/devicon/redis-original.svg" />
+<img alt="mybatis" height="50" width="50" src="https://avatars.githubusercontent.com/u/1483254?s=200&v=4" />
+<img alt="nginx" height="50" width="50" src="https://devicons.railway.app/i/nginx.svg" />
+<img alt="hadoop" height="50" width="50" src="https://hadoop.apache.org/elephant.png" />
 <img alt="qt" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" />
 <img alt="pr" height="50" width="50" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" />
 </p>
 
-<h3 align="center">Still learning:</h3>
+<h3 align="center">Beginner:</h3>
 
 <p align="center">
 <!-- <img alt="cplusplus" height="50" width="50" src="https://icongr.am/devicon/cplusplus-original.svg" /> -->
@@ -44,7 +45,7 @@
 <img alt="react" height="50" width="50" src="https://icongr.am/devicon/react-original.svg" />
 <img alt="docker" height="50" width="50" src="https://icongr.am/devicon/docker-original.svg" />
 <img alt="kubernetes" height="50" width="50" src="https://devicons.railway.app/i/kubernetes.svg" />
-<img alt="ros2" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ROS-Dark.svg" />
+<!-- <img alt="ros2" height="50" width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/ROS-Dark.svg" /> -->
 </p><br>
 
 <h2 align="center">Github Stats</h2>
